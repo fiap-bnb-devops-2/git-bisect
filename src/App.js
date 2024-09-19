@@ -17,6 +17,15 @@ function App() {
         >
           Aprenda Git
         </a>
+
+        <a
+          className="App-link"
+          href="https://google.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Aprenda Git
+        </a>
     </div>
   );
 }
