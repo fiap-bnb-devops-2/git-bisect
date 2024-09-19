@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Aprenda o comando git-bisect</p>
+        <p>Aprenda o comando git-bisect conosco</p>
         <a
           className="App-link"
           href="https://google.com"
