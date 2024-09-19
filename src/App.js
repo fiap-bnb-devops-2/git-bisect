@@ -9,7 +9,7 @@ function App() {
         <p>Aprenda o comando git-bisect</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://google.com"
           target="_blank"
           rel="noopener noreferrer"
         >
