@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Aprenda o comando git-bisect conosco</p>
-        <a
+      </header>
+
+      <a
           className="App-link"
           href="https://google.com"
           target="_blank"
@@ -15,7 +17,6 @@ function App() {
         >
           Aprenda Git
         </a>
-      </header>
     </div>
   );
 }
